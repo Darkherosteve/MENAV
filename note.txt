@@ -1,0 +1,11 @@
+git add .
+git commit -m "desc"
+git push 
+
+homepage 
+loginfailed
+404 page
+responsiveness
+ 
+
+me login page.
